@@ -1,3 +1,6 @@
+Tradução em português do Brasil (pt_br) dos problemas do Projeto Euler.
+
+Forked from: https://github.com/daconex/euler-offline
 
 Project Euler is protected under
 Attribution-Non-Commercial-Share Alike 2.0 UK: England & Wales
@@ -8,8 +11,11 @@ Many symbols are utf8
 Solutions are hashed with md5sum
 echo -n 'myanswer' | md5sum
 
+O Projeto Euler é protegido sob uma licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 2.0 (CC BY-NC-SA) Reino Unido: Inglaterra e País de Gales.
 
+^sup e [sub] são utilizados para subscrito/sobrescrito. Muitos símbolos são UTF8.
 
+A função hash md5 é aplicada às respostas. Você pode conferir a resposta utilizando o comando echo -n 'minha_resposta' | md5sum
 
 
 
