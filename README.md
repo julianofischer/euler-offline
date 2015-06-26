@@ -11,3 +11,6 @@ O Projeto Euler é protegido sob uma licença Creative Commons Atribuição-Não
 
 A função hash md5 é aplicada às respostas. Você pode conferir a resposta utilizando o comando **echo -n 'minha_resposta' | md5sum**
 
+
+#### Status da tradução
+Problema 5
